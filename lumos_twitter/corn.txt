@@ -1,0 +1,1 @@
+1 * * * *  /usr/bin/nodejs /$pathtofolder/twitter.js
