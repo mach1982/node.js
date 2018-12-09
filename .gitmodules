@@ -1,0 +1,3 @@
+[submodule "chat-example"]
+	path = chat-example
+	url = https://github.com/mach1982/chat-example
